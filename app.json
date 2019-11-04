@@ -1,0 +1,18 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "shoppertest",
+  "scripts": {
+    "postdeploy": "node app.js"
+  },
+  "stack": "heroku-18"
+}
